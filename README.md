@@ -1,3 +1,3 @@
 # Wicked Problems Index
 
-[Github/Graph Intro](Practice_1)
+[Github/Graph Intro](Practice1.md)
