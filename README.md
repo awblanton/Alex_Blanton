@@ -4,4 +4,4 @@
 
 [Complex Graphs](Practice2.md)
 
-[Bar Graphs](Practice3.md
+[Bar Graphs](Practice3.md)
