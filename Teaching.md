@@ -1,4 +1,4 @@
-# Teaching Data
+# College Applicant Data
 
 ![](Rplotapplicants.png)
 
