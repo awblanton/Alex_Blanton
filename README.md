@@ -8,6 +8,8 @@ Hi, my name is Alex Blanton. I am from Roanoke, Virginia and went to Cave Spring
 
 ## Assignments
 
+[Data Science Reflections](DSR.md)
+
 [Github/Graph Intro](Practice1.md)
 
 [Complex Graphs](Practice2.md)
