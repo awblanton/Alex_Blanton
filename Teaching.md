@@ -10,5 +10,5 @@ For the graph of the applicants I started by opening the .csv files and creating
 
 
 
-![](Rplotstatepop.png)
+<img src=Rplotstatepop.png width ="800" height ="600">
 
