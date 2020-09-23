@@ -11,3 +11,15 @@ The most important aspect of data science with regards to clubs and national tea
 <p align="center">Fig. 2 Expected goals(xG) map in a game between New York Red Bulls(NYRB) on the left and Tijuana on the right. NYRB won the game 2-0, the yellow shots went in, but on xG they lost 0.64-1.85.</p>
 
 Machine learning has begun to get improve at predicting varying aspects of soccer that help both the bookies and teams. With regards to the bookies machine learning models have been steadily improving as more data about teams and players making it slightly easier to predict a sport that is largely unpredictable with upsets being common (Berrar et al. par. 2,3). This allows both oddsmakers and bettors to have a greater chance of predicting a game correctly and getting money. Machine learning has also started to help teams improve at their ability to predict opponents’ actions (19). Using machine learning systems to analyze other teams previous games they are able to predict not only things like team selection, but also reactions that a coach is likely to make, sequences of play, strengths and weaknesses of opponents (14, 18-19).
+
+#### Works Cited
+
+Arastey, Guillermo Martinez. “History Of Performance Analysis: The Controversial Pioneer Charles Reep.” Sport Performance Analysis, Sport Performance Analysis, 27 Nov. 2019, www.sportperformanceanalysis.com/article/history-of-performance-analysis-the-controversial-pioneer-charles-reep. 
+
+Berrar, D., Lopes, P., Davis, J. et al. Guest editorial: special issue on machine learning for soccer. Mach Learn 108, 1–7 (2019). https://doi.org/10.1007/s10994-018-5763-8
+
+Flint, Andrew, et al. “How Science and Innovation Made Valeriy Lobanovskyi Eastern Europe's Greatest Manager.” These Football Times, These Football Times, 14 Aug. 2018, thesefootballtimes.co/2015/11/26/the-methodical-scientific-genius-of-valeriy-lobanovskyi/. 
+
+Fig. 1 “Performance Analysis.” The University of Canterbury, The University of Canterbury, www.canterbury.ac.nz/study/subjects/performance-analysis/performance-analysis.html. 
+
+Fig. 2 Doyle, Matthew. “Armchair Analyst: What Expected Goals & Game States Say about RBNY's Win.” MLSsoccer.com, MLS Digital, 7 Mar. 2018, www.mlssoccer.com/post/2018/03/07/armchair-analyst-what-expected-goals-game-states-say-about-rbnys-win. 
