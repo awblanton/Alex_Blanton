@@ -10,6 +10,6 @@ For the graph of the applicants I started by opening the .csv files and creating
 
 
 
-<img src= "Rplotstatepop.png" width ="800" height ="600"></p>
+![](Rplotstatepop.png)
 
 For the Graph of the state populations from 2000-2014 I started by pulling the data from the webpage, but this was difficult since the data would not pull up. After getting the data I made it into a data frame, but this was difficult as I could not get the 2000 data to align properly with the 2014 data. In order to remedy this I used order() to place the data into the right order. After this I used quantile and ggplot in order to make the graph split into four different graphs. 
