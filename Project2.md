@@ -54,4 +54,17 @@ Residual standard error: 4.729 on 58 degrees of freedom
 Multiple R-squared:  0.7266,	Adjusted R-squared:  0.703 
 F-statistic: 30.83 on 5 and 58 DF,  p-value: 3.669e-15
 
+
+
 The r-squared value of 0.7266 means that the the next day's closing price of UNH could be explained by the prices of the other stocks by 0.7266 so it is a fairly accurate way to predict the price. 
+
+### Part 3
+
+![](Barplot.png)
+
+
+Using the same stocks as in part 2 of the project 10,000 dollars were invest with 1,000 dollars going to MOH, 4,000 dollars going to UNH, 5,000 dollars going to HUM, and the rest of the stocks receiving none. The barplot shows the monthly return based on the invest and there were major losses in early 2019 and at the start of quarantine. The stocks did have a very large return in late 2019, making a recovery from months of primarily losses, and in the middle of 2020, as the stocks recovered from their inital losses. 
+
+![](Profit.png)
+
+This chart shows the total profit that was made by investing in the stocks in the same way as mentioned above. Making a larger profit was very difficult as for most of the time the stocks were losing money for most of the time and at the end of the 2 years three of the stocks had actually lost money from where they started meaning that they couldn't be used. I tried to go in and change how much weight was placed into each stock each month as generally one of the stocks was making money or they were losing less than the others, but I was unable to figure how to change the values. The maximum that I was able to get was by investing solely in either HUM or UNH, but the profit that was made by doing that was 2,250 dollars. I choose to do the one that made 1,900 dollars instead because it used three stocks, which isn't ideal, instead of just calculating it for one. 
