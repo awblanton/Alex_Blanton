@@ -17,3 +17,5 @@ Hi, my name is Alex Blanton. I am from Roanoke, Virginia and went to Cave Spring
 [Bar Graphs](Practice3.md)
 
 [Project 1](Teaching.md)
+
+[Project 2](Project2.md)
