@@ -18,6 +18,8 @@ This graph shows the average annual growth in the 50 states plus Puerto from 201
 
 This graph shows the performance of the health insurance stocks Anthem(ANTM), United Health Group(UNH), Molina Healthcare(MOH), Centene Corporation(CNC), Humana(HUM), and Cigna(CI). The graph compares the closing of all of the stocks for one day except UNH and the closing price the next day for UNH. When comparing the relationships between the different healthcare providers the relationship generally linear as when the price of one increases the price of the other increases, but there were a few cases of the price starting to curve as the price increased. 
 
+#### Summary
+
 
 quantmod object:   lm1601822925.15481 	Build date:  2020-10-04 10:48:45 
 
