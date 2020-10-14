@@ -1,4 +1,4 @@
-# Measuring Pass Value in Soccer
+# Measuring Pass Value in Soccer Games
 
 There are many basic statistics taken in soccer like shots, passes, and tackles that can be recorded by observing the game closely. While these stats do have some use, they do not offer much insight into what is happening on the field due to the wide variety of ways a game can playout. For example, Player A could complete all their passes, but every pass goes backwards, whereas Player B could complete 5 out of 20 passes but all of them created a chance to score a goal. If you were simply shown the basic statistics you would think that Player A out performed Player B, but if you look more in depth into the statistics you would see player B was actually contributing more to the team than Player A. Researchers developed a model that calculates how much value an individual pass gives to a team and then used this to determine which players offered a large value to their team and those who offer little to no value to their team in possession(Brefeld, Ulf, et al 3). 
 
