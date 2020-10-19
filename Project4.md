@@ -16,4 +16,3 @@
 
 <video src="SVK.mp4" width="500" height="500" controls preload></video>
 
-[<img src="SVK.mp4" width="50%">](SVK.mp4)
