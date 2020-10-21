@@ -13,6 +13,4 @@
 <img src="SVKpop2.png" width="600" height="600" />
 
 ### Deliverable 4
-
-<video src="SVK.mp4" width="500" height="500" controls preload></video>
-
+![](SVKpop.gif)
