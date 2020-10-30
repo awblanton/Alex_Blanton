@@ -27,7 +27,12 @@ This is a three dimensional rotation of the log of the population split into the
 
 ### Stretch Goal 1
 
+This shows the population density on a map of Slovakia with its coloring and it overlaws the percent of the population. The barplot shows the same thing, but in graphical form.
 
-
+![](Popdens.png)
 
 ### Stretch Goal 2
+
+This barplot shows the population of Slovakia organized into kraj and divided into the subdivisions.
+
+![](Popbp.png)
