@@ -4,7 +4,7 @@
 
 These histograms show the density of the log of the populations and the night time lights for the subdivisions of the kraj(regions) of Slovakia 
 
-<img src="3popc.png" width="500" height="500" />
+<img src="3popc.png" width="800" height="400" />
 
 ### Stretch Goal
 
