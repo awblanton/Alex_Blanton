@@ -12,3 +12,10 @@ There are 154655 that live within the region of Zilina in Slovakia. The populati
 
 
 <img src="Zilina1.png" width="500" height="500" />
+
+
+### Deliverable 3
+
+Urban areas in this region centered in the valley as the mountains offer to many obstacles for creating a large center of population. Roads tend to move through the valleys cutting over the mountains only when they have to in order to connect with other regions of Slovakia. Healthcare facilities are centered in the city of Zilina since that is where the majority of people live and the mountains would make it inefficient to place healthcare facilities in places it is difficult for people to travel to. No the three dimensional map has not changed any of my previous analysis as everything was centrally located meaning that there must be something that limits expansion in other areas. All this did was offer an explanation of why the population was centered in a certain way. 
+
+<img src="Snapshot_89.png" width="700" height="500" />
